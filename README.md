@@ -1,6 +1,6 @@
-# EDA-Visualization-Titanic
-"A data exploration project analyzing the Titanic dataset, focusing on data cleaning, visualizations, and uncovering key insights."
 ## 🚀 EDA & Visualization on the Titanic Dataset 📊🔍
+<img src="cover.png" alt="EDA & Visualization on the Titanic Dataset" width="800"/>
+</p>
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover patterns, relationships, and insights using Python and data visualization techniques.
